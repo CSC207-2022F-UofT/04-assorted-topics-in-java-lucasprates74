@@ -62,7 +62,7 @@ public class Trader<T> {
      * Add an item to the Trader's wishlist
      * @param item is the item to be added to the wishlist
      */
-    public void addToWishList(T item) {
+    public void addToWishlist(T item) {
         this.wishlist.add(item);
     }
 
